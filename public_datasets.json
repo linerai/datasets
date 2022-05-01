@@ -1,1 +1,10 @@
-[]
+[{
+    "key": "dogs_vs_cats",
+    "type": "img_text",
+    "md5": "e7d22beba42fb0d75d81250f3cac735d",
+    "zip_url": "https://github.com/divamgupta/datasets/releases/download/dogs_vs_cats/dogs_vs_cats.zip",
+    "url": "https://storage.googleapis.com/kaggle-datasets-images/550917/1003830/17ad9700150b430e70ce66e691f36a9c/dataset-cover.jpeg?t=2020-03-13-23-12-58",
+    "title": "Dogs vs cats",
+    "description": "Classify dogs from cats",
+    "supported_types": ["image_classification_project"]
+}]
