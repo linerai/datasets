@@ -50,8 +50,8 @@
     {
         "key": "camvid",
         "type": "img_text",
-        "md5": "6567c246354fc14413ddd1d9de079666",
-        "zip_url": "https://github.com/linerai/datasets/releases/download/image_classification/yoga_classification.zip",
+        "md5": "d48f15db1be0d6dbb1b2b5fecc04758b",
+        "zip_url": "https://github.com/linerai/datasets/releases/download/semantic_segmentation/camvid_dataset_train.zip",
         "url": "https://storage.googleapis.com/kaggle-datasets-images/635428/1129518/519a6b78395462cd0199a4ae94701c5d/dataset-cover.jpg?t=2020-05-05-12-12-36",
         "title": "CamVid Dataset",
         "source_url" : "http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/",
