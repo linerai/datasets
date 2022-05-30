@@ -1,10 +1,125 @@
-[{
-    "key": "dogs_vs_cats",
-    "type": "img_text",
-    "md5": "e7d22beba42fb0d75d81250f3cac735d",
-    "zip_url": "https://github.com/divamgupta/datasets/releases/download/dogs_vs_cats/dogs_vs_cats.zip",
-    "url": "https://storage.googleapis.com/kaggle-datasets-images/550917/1003830/17ad9700150b430e70ce66e691f36a9c/dataset-cover.jpeg?t=2020-03-13-23-12-58",
-    "title": "Dogs vs cats",
-    "description": "Classify dogs from cats",
-    "supported_types": ["image_classification_project"]
-}]
+[
+    {
+        "key": "dogs_vs_cats",
+        "type": "img_text",
+        "md5": "e7d22beba42fb0d75d81250f3cac735d",
+        "zip_url": "https://github.com/divamgupta/datasets/releases/download/dogs_vs_cats/dogs_vs_cats.zip",
+        "url": "https://storage.googleapis.com/kaggle-datasets-images/550917/1003830/17ad9700150b430e70ce66e691f36a9c/dataset-cover.jpeg?t=2020-03-13-23-12-58",
+        "title": "Dogs vs Cats",
+        "source_url" : "https://www.microsoft.com/en-us/download/details.aspx?id=54765",
+        "description": "Classify dogs from cats",
+        "supported_types": ["image_classification_project"]
+    }, 
+
+    {
+        "key": "monkey_species",
+        "type": "img_text",
+        "md5": "",
+        "zip_url": "https://github.com/linerai/datasets/releases/download/image_classification/monkey_classification.zip",
+        "url": "https://storage.googleapis.com/kaggle-datasets-images/10449/14658/eef473f4b4bd9a877002467fe258103c/dataset-cover.jpg?t=2018-01-22-17-39-58",
+        "title": "Monkey Species",
+        "source_url" : "https://www.kaggle.com/datasets/slothkong/10-monkey-species",
+        "description": "Classify 10 monkey species",
+        "supported_types": ["image_classification_project"]
+    }, 
+
+    {
+        "key": "flowers_mini",
+        "type": "img_text",
+        "md5": "",
+        "zip_url": "https://github.com/linerai/datasets/releases/download/image_classification/flowers_dataset_mini.zip",
+        "url": "https://www.researchgate.net/publication/345039740/figure/fig3/AS:1083904253526077@1635434320620/Oxford-102-Flower-dataset-with-annotation-which-contains-102-categories-of-flowers-can.jpg",
+        "title": "Flowers Dataset",
+        "source_url" : "https://www.robots.ox.ac.uk/~vgg/data/flowers/102/",
+        "description": "Classify flower species",
+        "supported_types": ["image_classification_project"]
+    }, 
+
+    {
+        "key": "yoga_mini",
+        "type": "img_text",
+        "md5": "",
+        "zip_url": "https://github.com/linerai/datasets/releases/download/image_classification/yoga_classification.zip",
+        "url": "https://storage.googleapis.com/kaggle-datasets-images/1249230/2083498/a7c9222f5443f83f7d31d7e93bbaa1a5/dataset-cover.jpg?t=2021-04-03-15-05-19",
+        "title": "Yoga Dataset",
+        "source_url" : "https://www.kaggle.com/datasets/shrutisaxena/yoga-pose-image-classification-dataset",
+        "description": "Classify yoga poses",
+        "supported_types": ["image_classification_project" , "human_image_classification_project"]
+    }, 
+
+    {
+        "key": "camvid",
+        "type": "img_text",
+        "md5": "",
+        "zip_url": "https://github.com/linerai/datasets/releases/download/image_classification/yoga_classification.zip",
+        "url": "https://storage.googleapis.com/kaggle-datasets-images/635428/1129518/519a6b78395462cd0199a4ae94701c5d/dataset-cover.jpg?t=2020-05-05-12-12-36",
+        "title": "CamVid Dataset",
+        "source_url" : "http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/",
+        "description": "Driving semantic segmentation",
+        "supported_types": ["semantic_segmentation_project"]
+    }, 
+
+    {
+        "key": "mask_detection",
+        "type": "img_text",
+        "md5": "",
+        "zip_url": "https://github.com/linerai/datasets/releases/download/object_detection/mask_detection.zip",
+        "url": "https://storage.googleapis.com/kaggle-datasets-images/667889/1176415/8588fcaf4598207e755d826ce2aa3d9f/dataset-cover.jpg?t=2020-05-22-07-33-13",
+        "title": "Mask Detection",
+        "source_url" : "https://www.kaggle.com/datasets/andrewmvd/face-mask-detection",
+        "description": "Detect a face wearing mask",
+        "supported_types": ["object_detection_project"]
+    }, 
+
+    {
+        "key": "car_plate_detection",
+        "type": "img_text",
+        "md5": "",
+        "zip_url": "https://github.com/linerai/datasets/releases/download/object_detection/car_plate_detection.zip",
+        "url": "https://storage.googleapis.com/kaggle-datasets-images/686454/1203932/8b216fcd5f420f2227703cc750a3096c/dataset-cover.jpg?t=2020-06-01-03-39-36",
+        "title": "Car License Plate Detection",
+        "source_url" : "https://www.kaggle.com/datasets/andrewmvd/car-plate-detection",
+        "description": "Detect car license plate",
+        "supported_types": ["object_detection_project"]
+    }, 
+
+    {
+        "key": "road_sign_detection",
+        "type": "img_text",
+        "md5": "",
+        "zip_url": "https://github.com/linerai/datasets/releases/download/object_detection/road_sign_detection.zip",
+        "url": "https://storage.googleapis.com/kaggle-datasets-images/671172/1181356/ff81ce1445cbda6d2948df4af7109708/dataset-cover.jpg?t=2020-05-24-01-55-46",
+        "title": "Road Sign Detection",
+        "source_url" : "https://www.kaggle.com/datasets/andrewmvd/road-sign-detection",
+        "description": "Detect road signs",
+        "supported_types": ["object_detection_project"]
+    }, 
+
+    {
+        "key": "pothole_detection",
+        "type": "img_text",
+        "md5": "",
+        "zip_url": "https://github.com/linerai/datasets/releases/download/object_detection/pothole_detection.zip",
+        "url": "https://storage.googleapis.com/kaggle-datasets-images/702771/1228192/41a7f43f0ddc4bf5888393a7f50592ae/dataset-cover.jpg?t=2020-06-09-07-41-15",
+        "title": "Pothole Detection",
+        "source_url" : "https://www.kaggle.com/datasets/andrewmvd/pothole-detection",
+        "description": "Detect potholes",
+        "supported_types": ["object_detection_project"]
+    }, 
+
+    {
+        "key": "atis_flights",
+        "type": "img_text",
+        "md5": "",
+        "zip_url": "https://github.com/linerai/datasets/releases/download/text_classification/atis_flights.zip",
+        "url": "https://storage.googleapis.com/kaggle-datasets-images/new-version-temp-images/default-backgrounds-55.png-1962508/dataset-cover.png",
+        "title": "Pothole Detection",
+        "source_url" : "https://www.kaggle.com/datasets/hassanamin/atis-airlinetravelinformationsystem",
+        "description": "Detect potholes",
+        "supported_types": ["text_classification_project"]
+    }
+
+
+
+
+]
