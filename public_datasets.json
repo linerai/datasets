@@ -134,14 +134,39 @@
     {
         "key": "gestures_4",
         "type": "img_text",
-        "md5": "",
+        "md5": "6bee455cf2597a32512b91af8af8a14c",
         "zip_url": "https://github.com/linerai/datasets/releases/download/hand_classification/gestures_4.zip",
         "url": "https://storage.googleapis.com/kaggle-datasets-images/1074867/1809273/9edc45485dccaccc6d9d3d6226b69f40/dataset-cover.jpg?t=2021-01-03-13-52-54",
         "title": "Hand gestures",
         "source_url" : "https://www.kaggle.com/datasets/grassknoted/asl-alphabet",
         "description": "Classify hand gestures",
         "supported_types": ["hand_image_classification_project"]
+    },
+    
+     {
+        "key": "baseball_basketball",
+        "type": "img_text",
+        "md5": "d0d2697254630a93c7212826c613d774",
+        "zip_url": "https://github.com/linerai/datasets/releases/download/video_classification/baseball_basketball.zip",
+        "url": "https://storage.googleapis.com/kaggle-datasets-images/1377795/2286616/4f743a70cafb453eb03406a56ec13aae/dataset-cover.jpg?t=2021-05-30-16-43-55",
+        "title": "Sports Videos",
+        "source_url" : "https://www.crcv.ucf.edu/data/UCF101.php",
+        "description": "Classify sports videos",
+        "supported_types": ["video_classification_project"]
+    },
+    
+    {
+        "key": "dog_vs_cat_sounds",
+        "type": "img_text",
+        "md5": "eeff69bb2470d103f50c75dc5b2dd4a7",
+        "zip_url": "https://github.com/linerai/datasets/releases/download/audio_classification/dogs_vs_cats_sounds.zip",
+        "url": "https://storage.googleapis.com/kaggle-datasets-images/550917/1003830/17ad9700150b430e70ce66e691f36a9c/dataset-cover.jpeg?t=2020-03-13-23-12-58",
+        "title": "Audio Cats and Dogs",
+        "source_url" : "https://www.kaggle.com/datasets/mmoreaux/audio-cats-and-dogs",
+        "description": "Classify animal sounds",
+        "supported_types": ["audio_classification_project"]
     }
+
 
 
 
