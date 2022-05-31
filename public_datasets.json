@@ -117,8 +117,31 @@
         "source_url" : "https://www.kaggle.com/datasets/hassanamin/atis-airlinetravelinformationsystem",
         "description": "Text intent classification",
         "supported_types": ["text_classification_project"]
-    }
+    } ,
+    
+    {
+        "key": "rock_paper_scissors",
+        "type": "img_text",
+        "md5": "512ff916abc86b38e8ccbd3794103e96",
+        "zip_url": "https://github.com/linerai/datasets/releases/download/hand_classification/rock_paper_scissors.zip",
+        "url": "https://storage.googleapis.com/kaggle-datasets-images/107582/256559/14accfe0345e7cd534eaff2a9658a4cf/dataset-cover.png?t=2019-01-19-17-16-51",
+        "title": "Rock Paper Scissors",
+        "source_url" : "https://laurencemoroney.com/datasets.html",
+        "description": "Classify hand gestures",
+        "supported_types": ["hand_image_classification_project"]
+    } ,
 
+    {
+        "key": "gestures_4",
+        "type": "img_text",
+        "md5": "",
+        "zip_url": "https://github.com/linerai/datasets/releases/download/hand_classification/gestures_4.zip",
+        "url": "https://storage.googleapis.com/kaggle-datasets-images/1074867/1809273/9edc45485dccaccc6d9d3d6226b69f40/dataset-cover.jpg?t=2021-01-03-13-52-54",
+        "title": "Hand gestures",
+        "source_url" : "https://www.kaggle.com/datasets/grassknoted/asl-alphabet",
+        "description": "Classify hand gestures",
+        "supported_types": ["hand_image_classification_project"]
+    }
 
 
 
