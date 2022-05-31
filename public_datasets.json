@@ -146,8 +146,8 @@
      {
         "key": "baseball_basketball",
         "type": "img_text",
-        "md5": "d0d2697254630a93c7212826c613d774",
-        "zip_url": "https://github.com/linerai/datasets/releases/download/video_classification/baseball_basketball.zip",
+        "md5": "24cd36afed019b74cc9a318aa67b78b5",
+        "zip_url": "https://github.com/linerai/datasets/releases/download/video_classification/baseball_basketball2.zip",
         "url": "https://storage.googleapis.com/kaggle-datasets-images/1377795/2286616/4f743a70cafb453eb03406a56ec13aae/dataset-cover.jpg?t=2021-05-30-16-43-55",
         "title": "Sports Videos",
         "source_url" : "https://www.crcv.ucf.edu/data/UCF101.php",
